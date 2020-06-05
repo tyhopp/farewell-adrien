@@ -6,11 +6,6 @@ const notes = [
     from: 'Slava',
   },
   {
-    title: 'This is Slava',
-    body: 'Farewell Anthony! And let the force be with you.',
-    from: 'Slava',
-  },
-  {
     title: 'This is Grace',
     body: 'Can I go home now?',
     from: 'Grace',
