@@ -1,14 +1,14 @@
 // Add your notes for Gramps here
 const notes = [
   {
-    title: 'This is Grace',
-    body: 'Can I go home now?',
-    from: 'Grace',
+    title: 'This is Slava',
+    body: 'All the best Adrien!',
+    from: 'Slava',
   },
   {
-    title: 'This is Grace',
-    body: 'Can I go home now?',
-    from: 'Grace',
+    title: 'This is Slava',
+    body: 'Farewell! And let the force be with you.',
+    from: 'Slava',
   },
   {
     title: 'This is Grace',
