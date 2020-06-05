@@ -1,6 +1,8 @@
 # Gramps Farewell
 
-A farewell card for Gramps.
+A farewell card for Adrien. A separate one will be created for Anthony after the design is finished and site updated.
+
+Thanks all!
 
 ## Usage
 
