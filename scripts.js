@@ -7,7 +7,7 @@ const notes = [
   },
   {
     title: 'This is Slava',
-    body: 'Farewell! And let the force be with you.',
+    body: 'Farewell Anthony! And let the force be with you.',
     from: 'Slava',
   },
   {
