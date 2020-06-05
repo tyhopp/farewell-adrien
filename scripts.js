@@ -71,7 +71,6 @@ for (const note of notes) {
 		<br>
 		<p class="gramps-card-from">-- ${note.from}</p>
 	`;
-  console.log(content);
   card.innerHTML = content;
   cards.appendChild(card);
 }
