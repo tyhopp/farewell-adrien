@@ -123,6 +123,10 @@ const notes = [
   {
     body: 'It was nice working with you. All the best for your future endeavours!!',
     from: 'Arun'
+  },
+  {
+    body: 'All the best Adrien!',
+    from: 'Slava'
   }
 ];
 
