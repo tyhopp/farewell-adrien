@@ -119,6 +119,10 @@ const notes = [
   {
     body: 'Adrien, I learned a ton from you. You\'re a fantastic lead and a great architect, and I deeply appreciate that you gave me challenging programming assignments that helped me continuously improve. I\'ll be stealing the lion\'s share of the things I learned from you and employing them myself in a leadership position someday. Thank you for your guidance. This isn\'t goodbye, but farewell - for now.',
     from: 'Ty'
+  },
+  {
+    body: 'It was nice working with you. All the best for your future endeavours!!',
+    from: 'Arun'
   }
 ];
 
