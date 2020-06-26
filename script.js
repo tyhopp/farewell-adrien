@@ -142,7 +142,6 @@ for (const note of sortedNotes) {
   }
   content += `
 		<p class="adrien-card-body">${note.body}</p>
-		<br>
 		<p class="adrien-card-from">-- ${note.from}</p>
 	`;
   card.innerHTML = content;
